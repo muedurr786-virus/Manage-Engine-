@@ -1,0 +1,7 @@
+{
+  "name": "CorePulse Hardware Inventory & Stock Alert Engine",
+  "description": "Real-time stock level management and automated replenishment alert engine for mobile devices, computers, tablets, and enterprise servers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
